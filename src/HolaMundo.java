@@ -1,5 +1,6 @@
 public class HolaMundo {
 
+
     public static void main(String[] args) {
         System.out.println("Hola mundo!");
         System.out.println(12);
@@ -16,6 +17,7 @@ public class HolaMundo {
         System.out.println("Dia " + 5 + " - " + "Viernes");
         System.out.println("Dia " + 6 + " - " + "Sábado");
         System.out.println("Dia " + 7 + " - " + "Domingo");
+        System.out.println("Dia" + 8 + "-" + "Feriado");
     }
 
 }
